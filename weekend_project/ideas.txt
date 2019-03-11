@@ -1,0 +1,20 @@
+The blog will have these main pages:
+    A Blog Article format,
+    A list of Bloggers format,
+    A home page that navigates to both.
+
+side bar on the left side will link to these 3 pages.
+
+need to impliment a login system (And ability to create accounts?)
+
+
+
+---------Learn how to properly impliment Models, Views, and connect these to URLs.
+
+
+will need functionality to allow commenting from registered users.
+
+
+Work on models and database field first:
+    create an unordered list that references the names of bloggers.
+    allow the ability to click on these names to send the user to a page with more information about the bloggers
